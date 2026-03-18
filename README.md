@@ -1,9 +1,7 @@
 # Keybuy
 
 
-╔═══════════════════════════════╗
-║     KILLER VIP - अबतक का सबसे        ║
-║        धमाकेदार वर्जन 3.0                ║
-║                                      ║
-║     Designed with ❤️ by SURAJ KUMAR  ║
-╚════════════════════════════════╝
+KILLER VIP - अबतक का सबसे
+धमाकेदार वर्जन 3.0
+
+Designed with ❤️ by SURAJ KUMAR
